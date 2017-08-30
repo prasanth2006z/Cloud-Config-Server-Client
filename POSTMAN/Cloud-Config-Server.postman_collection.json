@@ -1,0 +1,38 @@
+{
+	"id": "215064df-2aab-df4d-e7be-f9db08a7cfcc",
+	"name": "Cloud-Config-Server",
+	"description": "",
+	"order": [
+		"e6f383e4-0fcc-58f4-6231-ba2390a8c0ea"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1504082985459,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "e6f383e4-0fcc-58f4-6231-ba2390a8c0ea",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:8888/bookservice/dev",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "215064df-2aab-df4d-e7be-f9db08a7cfcc",
+			"data": null,
+			"dataMode": "params",
+			"name": "Cloud Config Server",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504082986573,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

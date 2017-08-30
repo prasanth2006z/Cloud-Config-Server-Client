@@ -1,0 +1,62 @@
+{
+	"id": "92d6caea-d69e-9fd1-dda8-3efe7a8bc7f0",
+	"name": "Cloud-Config-BookService-Client",
+	"description": "",
+	"order": [
+		"825ea4ae-f91b-49db-5636-8f8822ff7bb6",
+		"351e003a-c6a9-a71f-ea50-6f4ee6c947aa"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1504082781981,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "351e003a-c6a9-a71f-ea50-6f4ee6c947aa",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:9999/",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "92d6caea-d69e-9fd1-dda8-3efe7a8bc7f0",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get ENV Details",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504082850699,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "825ea4ae-f91b-49db-5636-8f8822ff7bb6",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:9999/refresh",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "92d6caea-d69e-9fd1-dda8-3efe7a8bc7f0",
+			"data": null,
+			"dataMode": "params",
+			"name": "Refresh End Point",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1504082804449,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
