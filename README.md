@@ -1,6 +1,7 @@
 # Cloud-Config-Server-Client
 
-This project will help you to configure spring cloud server and client.
+This project demonstrate to configure spring cloud server and how resource clients are accessing configurations from any version control system like GitHub/Bit bucket/SVN etc.
+
 
 # AppCloudConfigServer
 
