@@ -1,0 +1,11 @@
+info:
+  component: Book Service
+spring:
+  application:
+    name: bookservice
+  cloud:
+    config:
+      server:
+        uri: http://localhost:8888
+server:
+  port: 9999
